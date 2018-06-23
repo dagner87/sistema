@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost:8080/sistema/';
+$config['base_url'] = 'http://localhost:/sistema/';
 
 /*
 |---------------------------190.186.138.115:8080/sistema/--------http://www.almacen.keysolutions.com.bo---------------------------------------
